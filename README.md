@@ -50,8 +50,8 @@ int main()
     i++;
     
     }
-    y=height(b,0,1);
-    cout<<y<<endl;
+   // y=height(b,0,1);
+    //cout<<y<<endl;
     
  
 }
